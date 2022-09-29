@@ -49,3 +49,8 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+## Attribution
+# I have taken notes of all the chat messages on Slack given to questions raised.
+# I have also explored videos on how to do this and that including adding Variables to Windows PATH.
+# I have taken my eyes out to watch Ugochukwu Ukwuegbu's YouTube Channel thank you Ugochukwu.
